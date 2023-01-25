@@ -8,25 +8,23 @@ instal
 gitbash , 
 R studio
 
-
-
 # Day2
 
 
 introduction to commandline
-What is a command shell and why would I use one?
-A shell is a program whose primary purpose is to read commands and run other programs.
-when the shell is first opened, you are presented with a prompt,indicating that the shell is waiting for input
+Introducing the Shell
+How can i move around my computer
+navigating files and directories
+how can ispecify the location of a file or a directory
 
+##reading materials
 
+[capentries resources]: (https://pad.carpentries.org/Laikipia_University_Bioinformatics_Carpentries_Onl)
+[my link]  https://swcarpentry.github.io/git-novice/
 
 
 
 # Day3
 
-introduction to Git
-
-
-
-
+introduction to git
 
